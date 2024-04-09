@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Coroutines</string>
+    <string name="name">Enter Name</string>
+    <string name="add_name" />
+    <string name="enter_name">Enter Name</string>
+    <string name="button">\n\t</string>
 </resources>
